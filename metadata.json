@@ -1,0 +1,6 @@
+{
+  "name": "My Spanish Tutor",
+  "description": "An interactive personal Spanish tutor taking learners from A1 beginner to conversational A2 and beyond with structured lessons, speaking & listening practice, and smart quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
